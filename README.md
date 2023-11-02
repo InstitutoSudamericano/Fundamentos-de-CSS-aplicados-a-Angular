@@ -1,3 +1,6 @@
+![image](https://github.com/InstitutoSudamericano/Fundamentos-de-CSS-aplicados-a-Angular/assets/82419364/f97d32a6-8984-47a4-98a1-6573caee240a)
+
+
 # Css
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
